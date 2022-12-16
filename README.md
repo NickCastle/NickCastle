@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickCastle
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java, JavaScript, React and Spring
+- 🌱 I’m currently learning Java, Python and Spring
 - 📫 How to reach me: @nickvitor_666
 
 <!---
